@@ -1,0 +1,61 @@
+body
+{
+	 //background: pink; cores em hexadecimal  #RRGGBB de 0 a F
+						//cores em rgb(255,255,255)
+}
+
+#banner
+{
+	width: 100%;
+}
+
+.principal
+{
+	background: pink;
+	padding: 30px;
+}
+
+.titulo-principal
+{
+	padding: 0 0 0 30px;
+	//padding-left: 30px;
+}
+
+.titulo-centralizado
+{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+#missao{
+	font-size: 20px;																													
+}
+
+em strong{
+	color: purple;
+}
+
+.itens
+{
+	font-style: italic;
+	padding-bottom: 5px;
+}
+
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagem-beneficios {
+	width: 50%;
+}
